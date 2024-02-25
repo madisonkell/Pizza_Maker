@@ -1,0 +1,29 @@
+Please answer the following (Yes/No)
+
+
+Program structure/Documentation
+Are you using a Pizza Class that contains the blueprint of a pizza? If not explain why?
+		Yes
+Are you using arrays/arraylists to store your controls (like for example an arraylist of checkboxes for toppings? If not, explain why you chose to hardcode 10 lines of code every time you need to check which topping was selected.
+		I am using an array list to hold the toppings in the pizaz class, but I did not think to use one in the main. I did not think to use it becuase I do not think I could have figured it out.
+Is your code properly documented? (See requirements on Assignment page)
+		Yes
+
+Program Output
+
+Does your program handle resizing of the entire pizza when the size is changed? Yes
+Does your program correctly order the pizza layers when the crust is changed? Yes
+Does your program work if the user deselects all sauces? Yes
+Does your program work if the user chooses None for Cheese? Yes
+Does your display show more cheese when Extra is selected (test this with a darker colored sauce so that this is obvious to you) Kinda? the photo just looks rotated
+Does your program handle the scenario when no toppings are selected? Yes
+Does your program save the correct image when submit button is clicked? yes
+Does your program reset all fields and display when reset is clicked? Yes
+Does your program meet all the styling requirements specified in the assignment writeup? Yes
+
+******Also, I did a lot of the styling in-line because I do not have the fancy javafx on my home computer. It was giving me issues downloading it so I had no intellisense and it sucked lol. 
+I did what was important in the stylesheet though.
+
+
+
+
